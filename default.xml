@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+  <remote  name="github"
+           fetch=".." />
+
+  <default revision="master"
+           remote="github"
+           sync-c="true"
+           sync-j="4" />
+
+  <!-- sonyxperiadev -->
+  <project name="sonyxperiadev/camera" />
+  <project name="sonyxperiadev/device-sony-akari" />
+  <project name="sonyxperiadev/device-sony-amami" />
+  <project name="sonyxperiadev/device-sony-apollo" />
+  <project name="sonyxperiadev/device-sony-aries" />
+  <project name="sonyxperiadev/device-sony-blanc" />
+  <project name="sonyxperiadev/device-sony-castor" />
+  <project name="sonyxperiadev/device-sony-castor_windy" />
+  <project name="sonyxperiadev/device-sony-common" />
+  <project name="sonyxperiadev/device-sony-common-headers" />
+  <project name="sonyxperiadev/device-sony-common-init" />
+  <project name="sonyxperiadev/device-sony-discovery" />
+  <project name="sonyxperiadev/device-sony-dora" />
+  <project name="sonyxperiadev/device-sony-eagle" />
+  <project name="sonyxperiadev/device-sony-flamingo" />
+  <project name="sonyxperiadev/device-sony-honami" />
+  <project name="sonyxperiadev/device-sony-ivy" />
+  <project name="sonyxperiadev/device-sony-kagura" />
+  <project name="sonyxperiadev/device-sony-kanuti" />
+  <project name="sonyxperiadev/device-sony-karin" />
+  <project name="sonyxperiadev/device-sony-karin_windy" />
+  <project name="sonyxperiadev/device-sony-keyaki" />
+  <project name="sonyxperiadev/device-sony-kitakami" />
+  <project name="sonyxperiadev/device-sony-kugo" />
+  <project name="sonyxperiadev/device-sony-leo" />
+  <project name="sonyxperiadev/device-sony-lilac" />
+  <project name="sonyxperiadev/device-sony-loire" />
+  <project name="sonyxperiadev/device-sony-maple" />
+  <project name="sonyxperiadev/device-sony-nile" />
+  <project name="sonyxperiadev/device-sony-pioneer" />
+  <project name="sonyxperiadev/device-sony-poplar" />
+  <project name="sonyxperiadev/device-sony-rhine" />
+  <project name="sonyxperiadev/device-sony-satsuki" />
+  <project name="sonyxperiadev/device-sony-scorpion" />
+  <project name="sonyxperiadev/device-sony-scorpion_windy" />
+  <project name="sonyxperiadev/device-sony-seagull" />
+  <project name="sonyxperiadev/device-sony-sepolicy" />
+  <project name="sonyxperiadev/device-sony-shinano" />
+  <project name="sonyxperiadev/device-sony-sirius" />
+  <project name="sonyxperiadev/device-sony-sumire" />
+  <project name="sonyxperiadev/device-sony-suzu" />
+  <project name="sonyxperiadev/device-sony-suzuran" />
+  <project name="sonyxperiadev/device-sony-tama" />
+  <project name="sonyxperiadev/device-sony-tianchi" />
+  <project name="sonyxperiadev/device-sony-togari" />
+  <project name="sonyxperiadev/device-sony-tone" />
+  <project name="sonyxperiadev/device-sony-tulip" />
+  <project name="sonyxperiadev/device-sony-yoshino" />
+  <project name="sonyxperiadev/device-sony-yukon" />
+  <project name="sonyxperiadev/hardware-qcom-wlan" />
+  <project name="sonyxperiadev/json-c" />
+  <project name="sonyxperiadev/kernel" />
+  <project name="sonyxperiadev/kernel-copyleft" />
+  <project name="sonyxperiadev/local_manifests" />
+  <project name="sonyxperiadev/macaddrsetup" />
+  <project name="sonyxperiadev/mkqcdtbootimg" />
+  <project name="sonyxperiadev/packages_apps_ExtendedSettings" />
+  <project name="sonyxperiadev/packages-apps-FMRadio" />
+  <project name="sonyxperiadev/release-keys" />
+  <project name="sonyxperiadev/repo_update" />
+  <project name="sonyxperiadev/thermanager" />
+  <project name="sonyxperiadev/timekeep" />
+  <project name="sonyxperiadev/transpower" />
+  <project name="sonyxperiadev/vendor-broadcom-bt-fm" />
+  <project name="sonyxperiadev/vendor-broadcom-wlan" />
+  <project name="sonyxperiadev/vendor-nxp" />
+  <project name="sonyxperiadev/vendor-qcom-opensource-dataservices" />
+  <project name="sonyxperiadev/vendor-qcom-opensource-fm" />
+  <project name="sonyxperiadev/vendor-qcom-opensource-location" />
+  <project name="sonyxperiadev/vendor-qcom-opensource-time-services" />
+  <project name="sonyxperiadev/vendor-qcom-opensource-wlan-fw-api" />
+  <project name="sonyxperiadev/vendor-qcom-opensource-wlan-qcacld-3.0" />
+  <project name="sonyxperiadev/vendor-qcom-opensource-wlan-qca-wifi-host-cmn" />
+  <project name="sonyxperiadev/vendor-sony-kernel" />
+  <project name="sonyxperiadev/vendor-sony-oss-cash" />
+  <project name="sonyxperiadev/vendor-sony-oss-fingerprint" />
+  <project name="sonyxperiadev/vendor-sony-oss-odmcheck" />
+  <project name="sonyxperiadev/vendor-sony-oss-projection" />
+
+  <!-- NXPNFCProject -->
+  <project name="NXPNFCProject/NXPNFCC_FW" />
+
+  <!-- abioteau -->
+  <project name="abioteau/local_manifests" />
+  <project name="abioteau/mirror_manifest" />
+  <project name="abioteau/repo_init" />
+  <project name="abioteau/repo_update" />
+  <project name="abioteau/sony-aosp-repository" />
+  <project name="abioteau/vendor_broadcom" />
+  <project name="abioteau/vendor_nxp" />
+  <project name="abioteau/vendor_qcom_prebuilt" />
+  <project name="abioteau/vendor_sony" />
+  <project name="abioteau/vendor_sony_loire" />
+  <project name="abioteau/vendor_sony_nile" />
+  <project name="abioteau/vendor_sony_tone" />
+  <project name="abioteau/vendor_sony_yoshino" />
+
+  <!-- Androxyde  -->
+  <project name="Androxyde/devices" />
+  <project name="Androxyde/Flashtool" />
+
+</manifest>
