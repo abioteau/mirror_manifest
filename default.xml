@@ -59,6 +59,7 @@
   <project name="sonyxperiadev/device-sony-tulip" />
   <project name="sonyxperiadev/device-sony-yoshino" />
   <project name="sonyxperiadev/device-sony-yukon" />
+  <project name="sonyxperiadev/hardware-qcom-bootctrl" />
   <project name="sonyxperiadev/hardware-qcom-wlan" />
   <project name="sonyxperiadev/json-c" />
   <project name="sonyxperiadev/kernel" />
