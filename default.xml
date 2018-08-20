@@ -79,6 +79,7 @@
   <project name="sonyxperiadev/vendor-nxp" />
   <project name="sonyxperiadev/vendor-qcom-opensource-dataservices" />
   <project name="sonyxperiadev/vendor-qcom-opensource-fm" />
+  <project name="sonyxperiadev/vendor-qcom-opensource-interfaces" />
   <project name="sonyxperiadev/vendor-qcom-opensource-location" />
   <project name="sonyxperiadev/vendor-qcom-opensource-time-services" />
   <project name="sonyxperiadev/vendor-qcom-opensource-wlan-fw-api" />
