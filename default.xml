@@ -57,6 +57,7 @@
   <project name="sonyxperiadev/device-sony-togari" />
   <project name="sonyxperiadev/device-sony-tone" />
   <project name="sonyxperiadev/device-sony-tulip" />
+  <project name="sonyxperiadev/device-sony-voyager" />
   <project name="sonyxperiadev/device-sony-yoshino" />
   <project name="sonyxperiadev/device-sony-yukon" />
   <project name="sonyxperiadev/hardware-qcom-bootctrl" />
