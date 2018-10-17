@@ -81,6 +81,7 @@
   <project name="sonyxperiadev/vendor-broadcom-bt-fm" />
   <project name="sonyxperiadev/vendor-broadcom-wlan" />
   <project name="sonyxperiadev/vendor-nxp" />
+  <project name="sonyxperiadev/vendor-qcom-opensource-commonsys-intf-display" />
   <project name="sonyxperiadev/vendor-qcom-opensource-dataservices" />
   <project name="sonyxperiadev/vendor-qcom-opensource-fm" />
   <project name="sonyxperiadev/vendor-qcom-opensource-interfaces" />
