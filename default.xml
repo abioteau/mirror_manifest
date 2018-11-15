@@ -75,6 +75,7 @@
   <project name="sonyxperiadev/mkqcdtbootimg" />
   <project name="sonyxperiadev/packages_apps_ExtendedSettings" />
   <project name="sonyxperiadev/packages-apps-FMRadio" />
+  <project name="sonyxperiadev/QcRilAm" />
   <project name="sonyxperiadev/release-keys" />
   <project name="sonyxperiadev/repo_update" />
   <project name="sonyxperiadev/thermanager" />
