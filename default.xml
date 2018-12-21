@@ -97,6 +97,7 @@
   <project name="sonyxperiadev/vendor-sony-kernel" />
   <project name="sonyxperiadev/vendor-sony-oss-cash" />
   <project name="sonyxperiadev/vendor-sony-oss-fingerprint" />
+  <project name="sonyxperiadev/vendor-sony-oss-keymaster" />
   <project name="sonyxperiadev/vendor-sony-oss-odmcheck" />
   <project name="sonyxperiadev/vendor-sony-oss-projection" />
 
