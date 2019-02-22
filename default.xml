@@ -105,6 +105,9 @@
   <!-- NXPNFCProject -->
   <project name="NXPNFCProject/NXPNFCC_FW" />
 
+  <!-- relan -->
+  <project name="relan/exfat" />
+
   <!-- abioteau -->
   <project name="abioteau/local_manifests" />
   <project name="abioteau/mirror_manifest" />
