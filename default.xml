@@ -104,6 +104,7 @@
   <project name="sonyxperiadev/vendor-sony-oss-keymaster" />
   <project name="sonyxperiadev/vendor-sony-oss-odmcheck" />
   <project name="sonyxperiadev/vendor-sony-oss-projection" />
+  <project name="sonyxperiadev/vendor-sony-oss-simdetect" />
 
   <!-- NXPNFCProject -->
   <project name="NXPNFCProject/NXPNFCC_FW" />
