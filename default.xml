@@ -26,6 +26,7 @@
   <project name="sonyxperiadev/device-sony-dora" />
   <project name="sonyxperiadev/device-sony-eagle" />
   <project name="sonyxperiadev/device-sony-flamingo" />
+  <project name="sonyxperiadev/device-sony-ganges" />
   <project name="sonyxperiadev/device-sony-honami" />
   <project name="sonyxperiadev/device-sony-ivy" />
   <project name="sonyxperiadev/device-sony-kagura" />
@@ -33,12 +34,14 @@
   <project name="sonyxperiadev/device-sony-karin" />
   <project name="sonyxperiadev/device-sony-karin_windy" />
   <project name="sonyxperiadev/device-sony-keyaki" />
+  <project name="sonyxperiadev/device-sony-kirin" />
   <project name="sonyxperiadev/device-sony-kitakami" />
   <project name="sonyxperiadev/device-sony-kugo" />
   <project name="sonyxperiadev/device-sony-leo" />
   <project name="sonyxperiadev/device-sony-lilac" />
   <project name="sonyxperiadev/device-sony-loire" />
   <project name="sonyxperiadev/device-sony-maple" />
+  <project name="sonyxperiadev/device-sony-mermaid" />
   <project name="sonyxperiadev/device-sony-nile" />
   <project name="sonyxperiadev/device-sony-pioneer" />
   <project name="sonyxperiadev/device-sony-poplar" />
