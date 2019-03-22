@@ -122,6 +122,7 @@
   <project name="abioteau/vendor_nxp" />
   <project name="abioteau/vendor_qcom_prebuilt" />
   <project name="abioteau/vendor_sony" />
+  <project name="abioteau/vendor_sony_ganges" />
   <project name="abioteau/vendor_sony_loire" />
   <project name="abioteau/vendor_sony_nile" />
   <project name="abioteau/vendor_sony_tama" />
