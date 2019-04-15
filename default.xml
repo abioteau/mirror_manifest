@@ -11,6 +11,7 @@
 
   <!-- sonyxperiadev -->
   <project name="sonyxperiadev/camera" />
+  <project name="sonyxperiadev/customization" />
   <project name="sonyxperiadev/device-sony-akari" />
   <project name="sonyxperiadev/device-sony-akatsuki" />
   <project name="sonyxperiadev/device-sony-amami" />
