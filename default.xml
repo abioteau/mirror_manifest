@@ -72,6 +72,7 @@
   <project name="sonyxperiadev/hardware-qcom-wlan" />
   <project name="sonyxperiadev/json-c" />
   <project name="sonyxperiadev/kernel" />
+  <project name="sonyxperiadev/kernel-sony-msm-4.4-common" />
   <project name="sonyxperiadev/kernel-sony-msm-4.9-common" />
   <project name="sonyxperiadev/kernel-copyleft" />
   <project name="sonyxperiadev/kernel-defconfig" />
