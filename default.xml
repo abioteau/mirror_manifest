@@ -74,8 +74,10 @@
   <project name="sonyxperiadev/kernel" />
   <project name="sonyxperiadev/kernel-sony-msm-4.4-common" />
   <project name="sonyxperiadev/kernel-sony-msm-4.9-common" />
+  <project name="sonyxperiadev/kernel-sony-msm-4.14-common" />
   <project name="sonyxperiadev/kernel-copyleft" />
   <project name="sonyxperiadev/kernel-defconfig" />
+  <project name="sonyxperiadev/kernel-techpack-audio" />
   <project name="sonyxperiadev/local_manifests" />
   <project name="sonyxperiadev/macaddrsetup" />
   <project name="sonyxperiadev/mkqcdtbootimg" />
