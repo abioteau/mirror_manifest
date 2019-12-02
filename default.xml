@@ -103,6 +103,7 @@
   <project name="sonyxperiadev/vendor-qcom-opensource-interfaces" />
   <project name="sonyxperiadev/vendor-qcom-opensource-location" />
   <project name="sonyxperiadev/vendor-qcom-opensource-time-services" />
+  <project name="sonyxperiadev/vendor-qcom-opensource-vibrator" />
   <project name="sonyxperiadev/vendor-qcom-opensource-wlan-fw-api" />
   <project name="sonyxperiadev/vendor-qcom-opensource-wlan-qcacld-3.0" />
   <project name="sonyxperiadev/vendor-qcom-opensource-wlan-qca-wifi-host-cmn" />
