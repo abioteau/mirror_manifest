@@ -100,6 +100,7 @@
   <project name="sonyxperiadev/vendor-qcom-opensource-commonsys-intf-display" />
   <project name="sonyxperiadev/vendor-qcom-opensource-dataservices" />
   <project name="sonyxperiadev/vendor-qcom-opensource-fm" />
+  <project name="sonyxperiadev/vendor-qcom-opensource-gpt-utils" />
   <project name="sonyxperiadev/vendor-qcom-opensource-interfaces" />
   <project name="sonyxperiadev/vendor-qcom-opensource-location" />
   <project name="sonyxperiadev/vendor-qcom-opensource-time-services" />
