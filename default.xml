@@ -81,6 +81,7 @@
   <project name="sonyxperiadev/kernel-copyleft" />
   <project name="sonyxperiadev/kernel-defconfig" />
   <project name="sonyxperiadev/kernel-techpack-audio" />
+  <project name="sonyxperiadev/kernel-techpack-data-kernel" />
   <project name="sonyxperiadev/local_manifests" />
   <project name="sonyxperiadev/macaddrsetup" />
   <project name="sonyxperiadev/mkqcdtbootimg" />
