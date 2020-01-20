@@ -104,6 +104,7 @@
   <project name="sonyxperiadev/vendor-qcom-opensource-gpt-utils" />
   <project name="sonyxperiadev/vendor-qcom-opensource-interfaces" />
   <project name="sonyxperiadev/vendor-qcom-opensource-location" />
+  <project name="sonyxperiadev/vendor-qcom-opensource-telephony" />
   <project name="sonyxperiadev/vendor-qcom-opensource-time-services" />
   <project name="sonyxperiadev/vendor-qcom-opensource-vibrator" />
   <project name="sonyxperiadev/vendor-qcom-opensource-wlan-fw-api" />
