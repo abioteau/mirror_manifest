@@ -72,6 +72,7 @@
   <project name="sonyxperiadev/device-sony-yukon" />
   <project name="sonyxperiadev/hardware-qcom-bootctrl" />
   <project name="sonyxperiadev/hardware-qcom-display" />
+  <project name="sonyxperiadev/hardware-qcom-gps" />
   <project name="sonyxperiadev/hardware-qcom-gps-sdm845" />
   <project name="sonyxperiadev/hardware-qcom-media" />
   <project name="sonyxperiadev/hardware-qcom-wlan" />
