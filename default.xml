@@ -130,6 +130,9 @@
   <!-- relan -->
   <project name="relan/exfat" />
 
+  <!-- exfatprogs -->
+  <project name="exfatprogs/exfatprogs" />
+
   <!-- abioteau -->
   <project name="abioteau/local_manifests" />
   <project name="abioteau/mirror_manifest" />
