@@ -75,6 +75,7 @@
   <project name="sonyxperiadev/hardware-qcom-gps" />
   <project name="sonyxperiadev/hardware-qcom-gps-sdm845" />
   <project name="sonyxperiadev/hardware-qcom-media" />
+  <project name="sonyxperiadev/hardware-qcom-media-sm8150" />
   <project name="sonyxperiadev/hardware-qcom-wlan" />
   <project name="sonyxperiadev/json-c" />
   <project name="sonyxperiadev/kernel" />
